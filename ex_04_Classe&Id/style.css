@@ -1,0 +1,23 @@
+/* Adicionando CSS */
+/* com seletor 'TAG' */
+h1{
+    color:crimson;
+    font-size: 15px;
+}
+p{
+    font-weight: bold;
+}
+/* Adicionando CSS */
+/* com seletor 'ID' */
+/* ID NÃO PODE SER COMPARTILHADO, 1 POR LINHA */
+#p2{
+    color: crimson;
+    font-weight: bold
+}
+/* Adicionando CSS */
+/* com seletor 'class' */
+/* POSSO USAR EM LINHAS */
+.p-texto{
+    color: crimson;
+    font-weight: bold;
+}
