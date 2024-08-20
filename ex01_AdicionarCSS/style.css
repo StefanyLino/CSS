@@ -1,3 +1,12 @@
+/* Usando CSS externo */
 h1{
     color: darkred;
+}
+h2{
+    color: crimson;
+    font-size: 70px;
+}
+p{
+    color: rgb(86, 38, 38);
+    font-weight: bold;
 }
