@@ -1,2 +1,2 @@
 Projetos de CSS ⋆｡°✩
-- Arquivos de CSS (externo)
+- Arquivos de CSS (externo, inline)
