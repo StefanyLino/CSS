@@ -6,3 +6,4 @@ PROJETOS:
 - Aplicação de cores (nome, hexadecimal e RGBA)
 - Inserção de classes e ID
 - Animações
+- Border, Padding e Margin
