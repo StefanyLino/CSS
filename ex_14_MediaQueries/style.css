@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(255, 240, 240);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*Tamanho de desktop: mínimo 1024px */
+@media screen and (min-width:1024px) {
+    h1 {font-size: 48px; color: crimson;}
+    p{font-size: 24px;}
+}
+/* Tamanho médio de tablet: mínimo 768px e máximo 1023px */
+@media (min-width:768px) and (max-width:1023px){
+    h1{font-size: 24px; color: darkred;}
+    p{font-size: 12px;}
+}
+
+/* Tamanho médio de mobile: máximo 767px */
+@media (max-width:767px){
+    h1{font-size: 12px; color: rgb(217, 155, 155);}
+    p{font-size: 6px;}
+}
