@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+.boxmodel{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(184, 95, 95);
+    /* Espaço depois do conteúdo */
+    padding: 30px 30px;
+    border: 5px dotted darkred;
+    border-top: 5px solid darkred;
+    border-bottom: 5px solid darkred;
+    /* Borda arredondada */
+    border-radius: 15px;
+    margin: 45px;
+}
+.boxmodel{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(184, 95, 95);
+    /* Espaço depois do conteúdo */
+    padding: 30px 30px;
+    border: 5px dotted darkred;
+    border-top: 5px solid darkred;
+    border-bottom: 5px solid darkred;
+    /* Borda arredondada */
+    border-radius: 15px;
+    margin: 45px;
+}
