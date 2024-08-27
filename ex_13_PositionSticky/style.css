@@ -1,0 +1,60 @@
+/* Aula -> Position 
+
+Static: Flow do HTML; top, left, right e bottom não altera a posição.
+Relative: Flow do HTML; É alterável em posição (top, left...), em relação a algo.
+Absolute: Pode ser posicionado em qualquer lugar, porém respeitando o espaço que está (ex:div)
+Fixed: Pode ser posicionado em qualquer lugar, porém respeita o tamanho da tela que está sendo exibida.
+Sticky: Flow do HTML; E quando movimenta o scroll da tela ele deixa fixado em determinado ponto. 
+
+*/
+
+.position{
+    height: 500px;
+    width: 100px;
+    background-color: rgb(172, 5, 5);
+    border: 3px solid rgb(117, 0, 0);
+    margin: 50px;
+}
+.static{
+    position: static;
+}
+
+.relative{
+    position: relative;
+    background-color: darkred;
+    top: 10px;
+    left: 50px;
+}
+
+.absolute{
+    position: absolute;
+    background-color: crimson;
+    top: 0;
+    right: 0;
+}
+
+.mini-div{
+    height: 20px;
+    width: 20px;
+    border: 2px dotted darkred;
+    top: 0;
+    left: 0;
+}
+
+.fixed{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    right: 50px;
+    bottom: 50px;
+}
+
+.sticky{
+    width: 200px;
+    height: 50px;
+    background-color: tomato;
+    position: sticky;
+    left: 200px;
+    top: 0px;
+}
