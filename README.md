@@ -7,3 +7,4 @@ PROJETOS:
 - Inserção de classes e ID
 - Animações
 - Border, Padding e Margin
+- Static
