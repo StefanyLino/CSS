@@ -7,6 +7,4 @@ PROJETOS:
 - Inserção de classes e ID
 - Animações
 - Border, Padding e Margin
-- Static
-- Relative
-- Absolute
+- Position (Static, Relative, Fixed, Absolute e Sticky)
